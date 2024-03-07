@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://muzu-emu-team.github.io/muzu-website/'
 languageCode = 'en-us'
 title = 'MuZu'
 theme = 'lugo'
